@@ -1,0 +1,7 @@
+{
+  "name": "taskIonicCordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
