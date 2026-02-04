@@ -1,0 +1,18 @@
+ .ion-card {
+     --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+     border-radius: 12px;
+ }
+
+ .ion-text-end ion-button {
+     margin-left: 8px;
+ }
+
+ h2.completed {
+     text-decoration: line-through;
+     color: gray;
+ }
+
+ ion-badge {
+     margin-top: 4px;
+     font-weight: 500;
+ }
