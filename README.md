@@ -9,7 +9,7 @@ El proyecto permite ejecutarse como aplicación web y compilarse como APK para A
 
 Clona el repositorio y entra en el directorio del proyecto:
 
-git clone https://github.com/davids1092/task-ionic-cordova.git](https://github.com/davids1092/ionic-task-accenture.git
+git clone https://github.com/davids1092/ionic-task-accenture.git
 cd taskIonicCordova
 npm install
 
